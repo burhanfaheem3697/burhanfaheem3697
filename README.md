@@ -22,9 +22,9 @@
 ---
 
 ### ⚡ Featured Projects
-- 🔐 **[CyberSuraksha](#)** – Privacy-first, regulation-compliant consent-based data sharing system for fintech ecosystems.
-- 🧠 **[GroMo Samudaay Connect](#)** – A community-driven knowledge space for GroMo partners with AI moderators for Q&A and pitch support.
-- 📊 **[Newspress](#)** – ML-powered personalized news recommendation engine with collaborative and content filtering.
+- 🔐 **[CyberSuraksha](https://github.com/burhanfaheem3697/CyberSuraksha.git)** – Privacy-first, regulation-compliant consent-based data sharing system for fintech ecosystems.
+- 🧠 **[GroMo Samudaay Connect](https://github.com/burhanfaheem3697/groMO-samudaay-connect.git)** – A community-driven knowledge space for GroMo partners with AI moderators for Q&A and pitch support.
+- 📊 **[Newspress](https://github.com/burhanfaheem3697/NewsPress.git)** – ML-powered personalized news recommendation engine with collaborative and content filtering.
 
 ---
 
